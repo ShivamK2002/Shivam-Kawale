@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kawale</h1>
 <h3 align="center">A passionate developer from Pune.</h3>
-<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/shivam_speaks7" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_speaks7?logo=twitter&style=for-the-badge" alt="shivam_speaks7" /></a> </p>
 
