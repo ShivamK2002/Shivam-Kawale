@@ -1,5 +1,22 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! This is official GitHub account of Shivam Kawale and I'm a ..., from ....</h2>
+<h2 align="left">Who Am I</h2>
+<ul>
+  <li>Email: shivamkawale.nbnssoe.it@gmail.com</li>
+  <li>Phone: 9370810285</li>
+  <li>LinkedIn | GitHub | Linktree | GFG | LeetCode</li>
+</ul>
 
+<!-- Work Experience -->
+<h3>Work Experience</h3>
+<p><strong>CodeInBound LLP</strong></p>
+<p><em>SDE (Intern)</em></p>
+<p>02/2023 - 04/2023</p>
+<p><strong>Project:</strong> A network monitoring system (NMS) which is a software tool designed to monitor and manage computer networks. It is used to monitor the performance, availability, and security of network devices such as routers, switches, servers, and other network-connected devices.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+  <li>Developed APIs, custom decorators, guards, exception filters, and interceptors in NestJs and TypeScript.</li>
+  <li>Experienced in using NestJS and TypeScript to create scalable, reliable, and secure APIs.</li>
+</ul>
 ###
 
 <div align="center">
