@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! This is official GitHub account of Shivam Kawale and I'm a ..., from ....</h2>
-<h2 align="left">Who Am I</h2>
+<h2 align="left">Hi 👋! This is official GitHub account of Shivam Kawale </h2>
+<h2 align="left">Who Am I?</h2>
 <ul>
   <li>Email: shivamkawale.nbnssoe.it@gmail.com</li>
   <li>Phone: 9370810285</li>
