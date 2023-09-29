@@ -1,4 +1,4 @@
-# Hi 👋 :
+# Hi 👋 
 🔭 I’m currently working on myself😊<br>🤝 I’m looking for help with:<br>Finding an internship or a full-time job opportunity where I can apply my skills in technologies.<br>🌱 I’m currently learning:<br>-Data Structures and Algorithms (DSA)<br>-Full Stack Web Developement<br>💬 Ask me about my laziness<br>⚡ Fun fact : That's life
 
 
